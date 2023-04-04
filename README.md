@@ -18,3 +18,5 @@ Ce projet utilise les technologies suivantes :
 NodeJS
 ExpressJS
 
+# Authors:
+  Laurie BIGUET, Ana Paula Dutra Azevedo, Imane Zaki, Thibaut Champenois, Manon Mucchielli, Juliette de Quatrebarbes, Corentin Monvillers, Théo     SEUGE,   Lorena Campos
